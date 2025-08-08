@@ -43,7 +43,7 @@ By leveraging publicly available Airbnb data, this dashboard transforms raw CSV 
 ## 🗂️ Repository Contents
 - **`AirbnbNYCDashboard_17545894876070.twbx`** → Tableau Packaged Workbook (open in Tableau Desktop or Tableau Public).  
 - **`dashboard_preview.png`** → Static screenshot of the dashboard for quick viewing.  
-- *(Optional)* `data/` → Sample dataset for reference (if allowed).  
+- *(https://github.com/SaiDeepak11081/airbnb-nyc-tableau-dashboard/blob/main/AB_NYC_2019.csv)* `data/` → Dataset for reference.  
 
 ---
 
@@ -74,4 +74,5 @@ If published on Tableau Public, link here:
 [View on Tableau Public](https://public.tableau.com/app/profile/sai.deepak3232/viz/AirbnbNYCDashboard_17545894876070/Dashboard1)
 
 ---
+
 
