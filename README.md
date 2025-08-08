@@ -48,7 +48,7 @@ By leveraging publicly available Airbnb data, this dashboard transforms raw CSV 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://github.com/SaiDeepak11081/airbnb-nyc-tableau-dashboard/blob/main/dashboard%20preview.png)
 
 ---
 
@@ -59,18 +59,6 @@ By leveraging publicly available Airbnb data, this dashboard transforms raw CSV 
 
 ---
 
-## 📑 Dataset Source
-Data is sourced from: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)  
-The dataset includes information such as:
-- Listing ID, Host ID, and Host Name
-- Neighborhood and Borough
-- Room Type
-- Price per Night
-- Minimum Nights
-- Number of Reviews
-- Availability over the Year
-
----
 
 ## 🚀 Skills Demonstrated
 - Data Cleaning & Preparation
@@ -83,6 +71,7 @@ The dataset includes information such as:
 
 ## 🔗 Live Interactive Version *(Optional)*
 If published on Tableau Public, link here:  
-[View on Tableau Public](your-tableau-public-link)
+[View on Tableau Public](https://public.tableau.com/app/profile/sai.deepak3232/viz/AirbnbNYCDashboard_17545894876070/Dashboard1)
 
 ---
+
