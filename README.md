@@ -70,10 +70,11 @@ By leveraging publicly available Airbnb data, this dashboard transforms raw CSV 
 ---
 
 ## 🔗 Live Interactive Version
-If published on Tableau Public, link here:  
+The link to the Dashboard is here:  
 [View on Tableau Public](https://public.tableau.com/app/profile/sai.deepak3232/viz/AirbnbNYCDashboard_17545894876070/Dashboard1)
 
 ---
+
 
 
 
